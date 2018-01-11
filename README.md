@@ -112,7 +112,7 @@ This function is being tested.
 
 If Susan's notes and memory are correct, there are now 7 people coming to the party. She'd like you to write a function, `attendeeList()`, which will create a list "**Name** likes **Ice Cream**", one attendee per line in alphabetical order, just so she can make sure she remembers correctly.
 
-The function should be called `attendeelist()`. The return type should be `String`. 
+The function should be called `attendeeList()`. The return type should be `String`. 
 
 A hint to help you produce a list in alphabetical order:
 
